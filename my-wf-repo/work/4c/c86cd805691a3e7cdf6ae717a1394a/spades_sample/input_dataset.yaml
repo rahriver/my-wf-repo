@@ -1,0 +1,7 @@
+- "left reads":
+  - "/home/nexus/my-first-wf/work/4c/c86cd805691a3e7cdf6ae717a1394a/sample_R1.trimmed.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/home/nexus/my-first-wf/work/4c/c86cd805691a3e7cdf6ae717a1394a/sample_R2.trimmed.fastq.gz"
+  "type": "paired-end"

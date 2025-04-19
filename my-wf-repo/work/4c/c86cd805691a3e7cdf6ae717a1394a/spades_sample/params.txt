@@ -1,0 +1,15 @@
+Command line: /home/nexus/work/software/miniconda3/envs/nf/bin/spades.py	-1	/home/nexus/my-first-wf/work/4c/c86cd805691a3e7cdf6ae717a1394a/sample_R1.trimmed.fastq.gz	-2	/home/nexus/my-first-wf/work/4c/c86cd805691a3e7cdf6ae717a1394a/sample_R2.trimmed.fastq.gz	-o	/home/nexus/my-first-wf/work/4c/c86cd805691a3e7cdf6ae717a1394a/spades_sample	--threads	2	--memory	4	
+
+System information:
+  SPAdes version: 3.15.3
+  Python version: 3.13.2
+  OS: Linux-6.13.8-zen1-1-zen-x86_64-with-glibc2.41
+
+Output dir: /home/nexus/my-first-wf/work/4c/c86cd805691a3e7cdf6ae717a1394a/spades_sample
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Standard mode
+  For multi-cell/isolate data we recommend to use '--isolate' option; for single-cell MDA data use '--sc'; for metagenomic data use '--meta'; for RNA-Seq use '--rna'.
+  Reads:
