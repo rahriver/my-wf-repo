@@ -2,6 +2,7 @@
 > Author: Ramin Yousefpour Shahrivar
 
 **Nextflow Version**: v24.10.5
+
 **OS**: Arch Linux
 
 ## Installation
